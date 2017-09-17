@@ -21,3 +21,4 @@ After you opened it with CodeMirror copy the code in this repository and past it
 ### Step 5
 Run it and click open Virtual PC 2.0 and have fun!
 
+![virtual pc logo](https://user-images.githubusercontent.com/29897726/30522723-93b8a14e-9c39-11e7-9c5e-f3f12f13f7dd.PNG)
