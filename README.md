@@ -15,7 +15,7 @@ Once the document is made right click it and opened it with CodeMirror.
 ![open with codemirror](https://user-images.githubusercontent.com/29897726/30517652-0cc86d9a-9bcb-11e7-8066-877f8699f889.PNG)
 
 ### Step 4
-After you opened it with CodeMirror copy the in this repository and past it in to CodeMirror.
+After you opened it with CodeMirror copy the code in this repository and past it in to CodeMirror.
 ![code past](https://user-images.githubusercontent.com/29897726/30517687-11735ade-9bcc-11e7-8ebd-ec0800a737d1.PNG)
 
 ### Step 5
