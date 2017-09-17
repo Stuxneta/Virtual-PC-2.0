@@ -19,4 +19,5 @@ After you opened it with CodeMirror copy the in this repository and past it in t
 ![code past](https://user-images.githubusercontent.com/29897726/30517687-11735ade-9bcc-11e7-8ebd-ec0800a737d1.PNG)
 
 ### Step 5
-Run it and have fun!
+Run it click open Virtual PC 2.0 and have fun!
+
