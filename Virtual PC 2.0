@@ -3,9 +3,23 @@
   	font-family: 'Libre Barcode 39 Text', cursive;;
   }
 </style>
-<h1>Virtual PC working</h1><h5>by macroecosm</h5>
+<noscript>
+    <h1>You need javascript to run this app!</h1>
+</noscript>
+<script>
+	//document.write("Virual PC 2.0");
+</script>
+<h1>Virtual PC 2.0</h1>
+<h5>by macroecosm</h5>
 <a href="https://www.windows93.net/"> Open Virtual PC</a>
 <h4>
   In Windows 93 there is a Virtual PC. It does exactly what you
   think it would do. Though for some people it doesn't work. If you're one of those people there's a solution! Virtual PC 2.0! Though since I'm not apart of the the development team for Windows 93 this is not really in Windows 93. However you can add it by making an html file and pasting this code.
 </h4>
+<!--Code writen by macroecosm-->
+<!-- _   _  _        _                  _  ______  _____   _____     _____ 
+| | | |(_)      | |                | | | ___ \/  __ \ / __  \   |  _  |
+| | | | _  _ __ | |_  _   _   __ _ | | | |_/ /| /  \/ `' / /'   | |/' |
+| | | || || '__|| __|| | | | / _` || | |  __/ | |       / /     |  /| |
+\ \_/ /| || |   | |_ | |_| || (_| || | | |    | \__/\ ./ /___ _ \ |_/ /
+ \___/ |_||_|    \__| \__,_| \__,_||_| \_|     \____/ \_____/(_) \___/ -->
