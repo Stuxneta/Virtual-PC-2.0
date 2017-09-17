@@ -19,5 +19,5 @@ After you opened it with CodeMirror copy the code in this repository and past it
 ![code past lol](https://user-images.githubusercontent.com/29897726/30517860-82ee581c-9bd1-11e7-904c-e5c7de82fb32.PNG)
 
 ### Step 5
-Run it click open Virtual PC 2.0 and have fun!
+Run it and click open Virtual PC 2.0 and have fun!
 
