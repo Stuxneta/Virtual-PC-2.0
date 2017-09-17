@@ -3,3 +3,8 @@
   ## How to
   This tutorial will tell you how to add Virtual PC 2.0 to Windows 93.
   ### Step 1
+  Create a html document by right clicking and selecting Create Document.
+![create document](https://user-images.githubusercontent.com/29897726/30517575-165afa46-9bc9-11e7-82ce-a329fa1fa668.PNG)
+
+### Step 2
+A prompt will apear and you will need to enter "Virtual PC 2.0.html" and click enter.
