@@ -8,3 +8,8 @@
 
 ### Step 2
 A prompt will apear and you will need to enter "Virtual PC 2.0.html" and click enter.
+![enter name](https://user-images.githubusercontent.com/29897726/30517625-7194e024-9bca-11e7-9590-65f1e958ac2a.PNG)
+
+### Step 3
+Once the document is made right click it and opened it with CodeMirror.
+![open with codemirror](https://user-images.githubusercontent.com/29897726/30517652-0cc86d9a-9bcb-11e7-8066-877f8699f889.PNG)
