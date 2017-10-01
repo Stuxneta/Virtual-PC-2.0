@@ -30,6 +30,8 @@
   think it would do. Though for some people it doesn't work. If you're one of those people there's a solution! Virtual PC 2.0! Though since I'm not apart of the the development team for Windows 93 this is not really in Windows 93. However you can add it by making an html file and pasting this code.
 </h4>
 </div>
+<script>parent.$alert('For Windows 93 to load normally put the app in fullscreen. ')</script>
+<script>parent,$alert('For it to load differently don't resize the window.')</script>
 <!--Code writen by macroecosm-->
 <!-- _   _  _        _                  _  ______  _____   _____     _____ 
 | | | |(_)      | |                | | | ___ \/  __ \ / __  \   |  _  |
